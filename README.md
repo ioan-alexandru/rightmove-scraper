@@ -1,0 +1,1 @@
+# Web scraper that extracts property name,description,price,images,agency from [rightmove.co.uk](https://www.rightmove.co.uk/property-for-sale/find.html?locationIdentifier=REGION%5E93917&index=24&propertyTypes=&mustHave=&dontShow=&furnishTypes=&keywords=)
